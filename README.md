@@ -24,3 +24,4 @@
  > 忘记”战时“艰苦的日子。(2/28/2017)<br/>
  
  ![](https://orig00.deviantart.net/74a9/f/2016/362/6/2/2b_profile_by_koyorin-dat5ogk.jpg)
+ ![](https://pre07.deviantart.net/1e30/th/pre/f/2017/002/f/5/no__2_type_b_by_quantumglados-datwxzk.jpg)
