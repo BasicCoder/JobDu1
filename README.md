@@ -28,6 +28,9 @@
  > (3/2/2017)<br/>
  > update6:<br/>
  > 已经完成100多道题刷题，后面刷题会少一点，之后会多关注调剂信息，各学校已经开始陆续出复试分数线，调剂<br/>
- > 信息已经有很多学校发布，之后会要忙一些。<br/>
+ > 信息已经有很多学校发布，之后会要忙一些。(3/4/2017)<br/>
+ 
+ 
+ 
  ![](https://orig00.deviantart.net/74a9/f/2016/362/6/2/2b_profile_by_koyorin-dat5ogk.jpg)
  ![](https://pre07.deviantart.net/1e30/th/pre/f/2017/002/f/5/no__2_type_b_by_quantumglados-datwxzk.jpg)
