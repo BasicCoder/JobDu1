@@ -8,25 +8,26 @@ using namespace std;
 int n;
 char a[100][MAX];
 
-bool cmp(char a[], char b[]){
-	int len1 = strlen(a);
-	int len2 = strlen(b);
+int cmp(const void *a, const void *b){
+	int len1 = strlen((char *)a);
+	int len2 = strlen((char *)b);
 	if(len1 == len2){
-		return a < b;
+		return strcmp((char *)a, (char *)b);
 	}else{
-		return len1 < len2;
+		return len1 - len2;
 	}
 }
 int main(){
 	int i = 0;
 	while(scanf("%d", &n) != EOF){
 		for(i = 0; i < n; ++i){
-			gets(a[i]);
+			scanf("%s", a[i]);
 		}
-		sort(a, a+n, cmp);
+		qsort(a, n, sizeof(a[0]), cmp);
 
 		for(i = 0; i < n; ++i){
 			cout << a[i] << endl;
 		}
 	}
+	return 0;
 }
