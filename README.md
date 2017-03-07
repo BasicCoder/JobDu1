@@ -37,3 +37,4 @@
  
  ![](https://orig00.deviantart.net/74a9/f/2016/362/6/2/2b_profile_by_koyorin-dat5ogk.jpg)
  ![](https://pre07.deviantart.net/1e30/th/pre/f/2017/002/f/5/no__2_type_b_by_quantumglados-datwxzk.jpg)
+ ![](https://danbooru.donmai.us/data/__yorha_no_2_type_b_nier_series_and_nier_automata_drawn_by_qichao_wang__5980e51fd930987c8ead23778e1dd3f6.jpg)
