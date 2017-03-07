@@ -37,4 +37,3 @@
  
  ![](https://orig00.deviantart.net/74a9/f/2016/362/6/2/2b_profile_by_koyorin-dat5ogk.jpg)
  ![](https://pre07.deviantart.net/1e30/th/pre/f/2017/002/f/5/no__2_type_b_by_quantumglados-datwxzk.jpg)
- ![](https://konachan.com/sample/d1aa071fd4ccf9b64829a8ba2a398eed/Konachan.com%20-%20237453%20sample.jpg)
